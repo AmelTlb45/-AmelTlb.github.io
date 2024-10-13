@@ -1,0 +1,16 @@
+---
+layout: default
+title: Mon Site
+---
+
+<h1>Bienvenue sur mon site !</h1>
+<p>Voici une brève description de ce que vous trouverez ici.</p>
+
+<h2>Derniers articles</h2>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
