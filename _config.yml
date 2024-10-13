@@ -1,8 +1,8 @@
-title: web site
+title: Mon Site 
 description: Une brève description de mon site génial.
 author:
   name: Taleb Amel
-  email: ameltlb68@gamil.com
+  email: ameltlb68@gmail.com
 
 # Paramètres de construction
 markdown: kramdown
@@ -31,7 +31,4 @@ markdown_ext: "markdown,mkd,mkdn,mkdown"
 highlighter: rouge
 
 # Paramètres de l'auteur
-author:
-  name: "Taleb Amel"
-  bio: "Student of Computer Science developper and software engineering"
-  
+bio: "Étudiant en informatique, développeur et ingénieur logiciel."
