@@ -1,0 +1,37 @@
+title: web site
+description: Une brève description de mon site génial.
+author:
+  name: Taleb Amel
+  email: ameltlb68@gamil.com
+
+# Paramètres de construction
+markdown: kramdown
+permalink: pretty
+theme: minima
+
+# Liens vers les réseaux sociaux
+social:
+  twitter: tlb_amel_
+  github: AmelTlb45
+  linkedin: Amel Tlb
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclure des fichiers du traitement
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Autres configurations
+markdown_ext: "markdown,mkd,mkdn,mkdown"
+highlighter: rouge
+
+# Paramètres de l'auteur
+author:
+  name: "Taleb Amel"
+  bio: "Student of Computer Science developper and software engineering"
+  avatar: "C:\MAMP\htdocs\example-app\public\artisan\vendors\images\amol.jpg"
